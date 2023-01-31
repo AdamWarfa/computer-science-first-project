@@ -2,3 +2,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #bc42f5;
 }
+.box {
+  background-color: #ca8ee6;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  margin-top: -200px;
+  margin-left: -100px;
+  padding: 100px;
+  box-shadow: 20% #000000;
+}
